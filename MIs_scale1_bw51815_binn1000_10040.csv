@@ -1,0 +1,1201 @@
+,station,index,MI_label,mutual_information,H(x),C_yx,H(y),C_xy
+0,bbc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.918797756865999,Avg_Precipitation_rate_in,"0    0.967491
+dtype: float64",Delta_sm_10,"0    0.788191
+dtype: float64"
+1,bbc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.862249217594998,Avg_Precipitation_rate_in,"0    0.959584
+dtype: float64",Delta_sm_100,"0    0.787999
+dtype: float64"
+2,bbc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.550874475245998,Avg_Precipitation_rate_in,"0    0.916042
+dtype: float64",Delta_sm_100_perPtot,"0    0.968358
+dtype: float64"
+3,bbc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.701182075478,Avg_Precipitation_rate_in,"0    0.937061
+dtype: float64",Delta_sm_10_perPtot,"0    0.862126
+dtype: float64"
+4,bbc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.374782995390998,Peak_Precipitation_rate_in,"0    0.897147
+dtype: float64",Delta_sm_10,"0    0.840137
+dtype: float64"
+5,bbc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.338573302779997,Peak_Precipitation_rate_in,"0    0.892742
+dtype: float64",Delta_sm_100,"0    0.842695
+dtype: float64"
+6,bbc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.693238396020998,Peak_Precipitation_rate_in,"0    0.814237
+dtype: float64",Delta_sm_100_perPtot,"0    0.989402
+dtype: float64"
+7,bbc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.858113295283999,Peak_Precipitation_rate_in,"0    0.834294
+dtype: float64",Delta_sm_10_perPtot,"0    0.882315
+dtype: float64"
+8,bbc,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,6.961654215894997,Peak_Precipitation_rate_in,"0    0.84689
+dtype: float64",Prior_sm_10,"0    0.770763
+dtype: float64"
+9,bbc,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,6.9716046443399975,Peak_Precipitation_rate_in,"0    0.8481
+dtype: float64",Prior_sm_100,"0    0.764849
+dtype: float64"
+10,bbc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.8190690434149985,Median_Precipitation_rate_in,"0    0.975056
+dtype: float64",Delta_sm_10,"0    0.77683
+dtype: float64"
+11,bbc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.772404290963999,Median_Precipitation_rate_in,"0    0.968383
+dtype: float64",Delta_sm_100,"0    0.777682
+dtype: float64"
+12,bbc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.523727011879998,Median_Precipitation_rate_in,"0    0.932825
+dtype: float64",Delta_sm_100_perPtot,"0    0.964345
+dtype: float64"
+13,bbc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.672464164508,Median_Precipitation_rate_in,"0    0.954093
+dtype: float64",Delta_sm_10_perPtot,"0    0.858431
+dtype: float64"
+14,bbc,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.484065167071998,Total_Precipitation_in,"0    0.888586
+dtype: float64",Delta_sm_10,"0    0.852587
+dtype: float64"
+15,bbc,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.628980958858996,Total_Precipitation_in,"0    0.905792
+dtype: float64",Delta_sm_100,"0    0.876043
+dtype: float64"
+16,bbc,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.785369478495001,Prior_sm_10,"0    0.751245
+dtype: float64",Delta_sm_100_perPtot,"0    1.003021
+dtype: float64"
+17,bbc,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,6.9743535940560015,Prior_sm_10,"0    0.772169
+dtype: float64",Delta_sm_10_perPtot,"0    0.89727
+dtype: float64"
+18,bbc,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.796662984476001,Prior_sm_100,"0    0.745656
+dtype: float64",Delta_sm_100_perPtot,"0    1.004691
+dtype: float64"
+19,bbc,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,6.9505347917160005,Prior_sm_100,"0    0.762537
+dtype: float64",Delta_sm_10_perPtot,"0    0.894205
+dtype: float64"
+20,brw,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.995539674579,Avg_Precipitation_rate_in,"0    0.918984
+dtype: float64",Delta_sm_10,"0    0.804473
+dtype: float64"
+21,brw,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.886808752240999,Avg_Precipitation_rate_in,"0    0.904701
+dtype: float64",Delta_sm_100,"0    0.864011
+dtype: float64"
+22,brw,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.630403348524,Avg_Precipitation_rate_in,"0    0.871017
+dtype: float64",Delta_sm_100_perPtot,"0    0.968397
+dtype: float64"
+23,brw,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.83700049642,Avg_Precipitation_rate_in,"0    0.898157
+dtype: float64",Delta_sm_10_perPtot,"0    0.835032
+dtype: float64"
+24,brw,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.450798031772999,Peak_Precipitation_rate_in,"0    0.890095
+dtype: float64",Delta_sm_10,"0    0.856827
+dtype: float64"
+25,brw,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.301932880963999,Peak_Precipitation_rate_in,"0    0.872311
+dtype: float64",Delta_sm_100,"0    0.916092
+dtype: float64"
+26,brw,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.739776074078,Peak_Precipitation_rate_in,"0    0.805154
+dtype: float64",Delta_sm_100_perPtot,"0    0.984371
+dtype: float64"
+27,brw,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.988813402129997,Peak_Precipitation_rate_in,"0    0.834905
+dtype: float64",Delta_sm_10_perPtot,"0    0.853573
+dtype: float64"
+28,brw,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,6.983735905308999,Peak_Precipitation_rate_in,"0    0.834298
+dtype: float64",Prior_sm_10,"0    0.799237
+dtype: float64"
+29,brw,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,6.961963851727997,Peak_Precipitation_rate_in,"0    0.831697
+dtype: float64",Prior_sm_100,"0    0.813954
+dtype: float64"
+30,brw,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.864929056585998,Median_Precipitation_rate_in,"0    0.937021
+dtype: float64",Delta_sm_10,"0    0.789453
+dtype: float64"
+31,brw,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.770225894558001,Median_Precipitation_rate_in,"0    0.924095
+dtype: float64",Delta_sm_100,"0    0.849385
+dtype: float64"
+32,brw,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.5810406711340015,Median_Precipitation_rate_in,"0    0.898272
+dtype: float64",Delta_sm_100_perPtot,"0    0.961187
+dtype: float64"
+33,brw,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.780742585601001,Median_Precipitation_rate_in,"0    0.92553
+dtype: float64",Delta_sm_10_perPtot,"0    0.828161
+dtype: float64"
+34,brw,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.511369538897,Total_Precipitation_in,"0    0.923611
+dtype: float64",Delta_sm_10,"0    0.863792
+dtype: float64"
+35,brw,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.376054958536001,Total_Precipitation_in,"0    0.906972
+dtype: float64",Delta_sm_100,"0    0.925391
+dtype: float64"
+36,brw,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.7862174701810005,Prior_sm_10,"0    0.776632
+dtype: float64",Delta_sm_100_perPtot,"0    0.991154
+dtype: float64"
+37,brw,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,6.987555456117997,Prior_sm_10,"0    0.799674
+dtype: float64",Delta_sm_10_perPtot,"0    0.85342
+dtype: float64"
+38,brw,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.773700864079,Prior_sm_100,"0    0.791943
+dtype: float64",Delta_sm_100_perPtot,"0    0.989326
+dtype: float64"
+39,brw,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,6.951706873987998,Prior_sm_100,"0    0.812755
+dtype: float64",Delta_sm_10_perPtot,"0    0.849041
+dtype: float64"
+40,bvl,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.988533107257002,Avg_Precipitation_rate_in,"0    0.898909
+dtype: float64",Delta_sm_10,"0    0.793984
+dtype: float64"
+41,bvl,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.938827251795001,Avg_Precipitation_rate_in,"0    0.892515
+dtype: float64",Delta_sm_100,"0    0.832311
+dtype: float64"
+42,bvl,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.69359826036,Avg_Precipitation_rate_in,"0    0.860972
+dtype: float64",Delta_sm_100_perPtot,"0    0.914857
+dtype: float64"
+43,bvl,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.845342677719001,Avg_Precipitation_rate_in,"0    0.880491
+dtype: float64",Delta_sm_10_perPtot,"0    0.844494
+dtype: float64"
+44,bvl,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.471663011402999,Peak_Precipitation_rate_in,"0    0.89717
+dtype: float64",Delta_sm_10,"0    0.848874
+dtype: float64"
+45,bvl,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.510397827225001,Peak_Precipitation_rate_in,"0    0.901822
+dtype: float64",Delta_sm_100,"0    0.900871
+dtype: float64"
+46,bvl,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.776912255609998,Peak_Precipitation_rate_in,"0    0.813747
+dtype: float64",Delta_sm_100_perPtot,"0    0.926244
+dtype: float64"
+47,bvl,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.9740146590190015,Peak_Precipitation_rate_in,"0    0.837415
+dtype: float64",Delta_sm_10_perPtot,"0    0.860368
+dtype: float64"
+48,bvl,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,6.999937175538001,Peak_Precipitation_rate_in,"0    0.840527
+dtype: float64",Prior_sm_10,"0    0.764999
+dtype: float64"
+49,bvl,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,6.9834468666589995,Peak_Precipitation_rate_in,"0    0.838547
+dtype: float64",Prior_sm_100,"0    0.77641
+dtype: float64"
+50,bvl,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.859980624634002,Median_Precipitation_rate_in,"0    0.914288
+dtype: float64",Delta_sm_10,"0    0.779379
+dtype: float64"
+51,bvl,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.797754548996,Median_Precipitation_rate_in,"0    0.905995
+dtype: float64",Delta_sm_100,"0    0.815389
+dtype: float64"
+52,bvl,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.636897155547,Median_Precipitation_rate_in,"0    0.884556
+dtype: float64",Delta_sm_100_perPtot,"0    0.907107
+dtype: float64"
+53,bvl,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.777728439924001,Median_Precipitation_rate_in,"0    0.903326
+dtype: float64",Delta_sm_10_perPtot,"0    0.836153
+dtype: float64"
+54,bvl,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.763337961044002,Total_Precipitation_in,"0    0.918301
+dtype: float64",Delta_sm_10,"0    0.882012
+dtype: float64"
+55,bvl,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.765365418135003,Total_Precipitation_in,"0    0.918541
+dtype: float64",Delta_sm_100,"0    0.931454
+dtype: float64"
+56,bvl,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.866187081962,Prior_sm_10,"0    0.750382
+dtype: float64",Delta_sm_100_perPtot,"0    0.938446
+dtype: float64"
+57,bvl,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.0101923844759995,Prior_sm_10,"0    0.76612
+dtype: float64",Delta_sm_10_perPtot,"0    0.864831
+dtype: float64"
+58,bvl,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.861925430138999,Prior_sm_100,"0    0.7629
+dtype: float64",Delta_sm_100_perPtot,"0    0.937863
+dtype: float64"
+59,bvl,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,6.991265402420998,Prior_sm_100,"0    0.77728
+dtype: float64",Delta_sm_10_perPtot,"0    0.862496
+dtype: float64"
+60,cmi,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.042790667247997,Avg_Precipitation_rate_in,"0    0.905833
+dtype: float64",Delta_sm_10,"0    0.772651
+dtype: float64"
+61,cmi,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.0089567934379975,Avg_Precipitation_rate_in,"0    0.901481
+dtype: float64",Delta_sm_100,"0    0.788658
+dtype: float64"
+62,cmi,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.7041465091550005,Avg_Precipitation_rate_in,"0    0.862277
+dtype: float64",Delta_sm_100_perPtot,"0    0.953819
+dtype: float64"
+63,cmi,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.891944559538999,Avg_Precipitation_rate_in,"0    0.886431
+dtype: float64",Delta_sm_10_perPtot,"0    0.812778
+dtype: float64"
+64,cmi,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.631685579573999,Peak_Precipitation_rate_in,"0    0.899381
+dtype: float64",Delta_sm_10,"0    0.837257
+dtype: float64"
+65,cmi,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.6588664871719985,Peak_Precipitation_rate_in,"0    0.902584
+dtype: float64",Delta_sm_100,"0    0.861787
+dtype: float64"
+66,cmi,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.823359908952998,Peak_Precipitation_rate_in,"0    0.804121
+dtype: float64",Delta_sm_100_perPtot,"0    0.97078
+dtype: float64"
+67,cmi,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,7.079528657350998,Peak_Precipitation_rate_in,"0    0.83431
+dtype: float64",Delta_sm_10_perPtot,"0    0.8349
+dtype: float64"
+68,cmi,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.019610182685998,Peak_Precipitation_rate_in,"0    0.827249
+dtype: float64",Prior_sm_10,"0    0.764971
+dtype: float64"
+69,cmi,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.011223512191997,Peak_Precipitation_rate_in,"0    0.826261
+dtype: float64",Prior_sm_100,"0    0.767103
+dtype: float64"
+70,cmi,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.907738864398999,Median_Precipitation_rate_in,"0    0.914043
+dtype: float64",Delta_sm_10,"0    0.757834
+dtype: float64"
+71,cmi,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.873044277373998,Median_Precipitation_rate_in,"0    0.909452
+dtype: float64",Delta_sm_100,"0    0.773365
+dtype: float64"
+72,cmi,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.654718385347999,Median_Precipitation_rate_in,"0    0.880563
+dtype: float64",Delta_sm_100_perPtot,"0    0.946787
+dtype: float64"
+73,cmi,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.839264141652999,Median_Precipitation_rate_in,"0    0.904982
+dtype: float64",Delta_sm_10_perPtot,"0    0.806565
+dtype: float64"
+74,cmi,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.876787563583001,Total_Precipitation_in,"0    0.938915
+dtype: float64",Delta_sm_10,"0    0.864147
+dtype: float64"
+75,cmi,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.963656609832002,Total_Precipitation_in,"0    0.94927
+dtype: float64",Delta_sm_100,"0    0.896082
+dtype: float64"
+76,cmi,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.878733967463999,Prior_sm_10,"0    0.749619
+dtype: float64",Delta_sm_100_perPtot,"0    0.978658
+dtype: float64"
+77,cmi,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.043614603677,Prior_sm_10,"0    0.767587
+dtype: float64",Delta_sm_10_perPtot,"0    0.830665
+dtype: float64"
+78,cmi,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.870584087728002,Prior_sm_100,"0    0.751716
+dtype: float64",Delta_sm_100_perPtot,"0    0.977498
+dtype: float64"
+79,cmi,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.039449591004997,Prior_sm_100,"0    0.770192
+dtype: float64",Delta_sm_10_perPtot,"0    0.830174
+dtype: float64"
+80,dek,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.959554838657002,Avg_Precipitation_rate_in,"0    0.939319
+dtype: float64",Delta_sm_10,"0    0.785944
+dtype: float64"
+81,dek,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.954222672131001,Avg_Precipitation_rate_in,"0    0.9386
+dtype: float64",Delta_sm_100,"0    0.804838
+dtype: float64"
+82,dek,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.649727677180001,Avg_Precipitation_rate_in,"0    0.897503
+dtype: float64",Delta_sm_100_perPtot,"0    0.907752
+dtype: float64"
+83,dek,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.836343536707,Avg_Precipitation_rate_in,"0    0.92269
+dtype: float64",Delta_sm_10_perPtot,"0    0.800433
+dtype: float64"
+84,dek,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.435784158916,Peak_Precipitation_rate_in,"0    0.919155
+dtype: float64",Delta_sm_10,"0    0.839725
+dtype: float64"
+85,dek,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.486930454755001,Peak_Precipitation_rate_in,"0    0.925478
+dtype: float64",Delta_sm_100,"0    0.86649
+dtype: float64"
+86,dek,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.745397693278001,Peak_Precipitation_rate_in,"0    0.833815
+dtype: float64",Delta_sm_100_perPtot,"0    0.920812
+dtype: float64"
+87,dek,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.978441194670001,Peak_Precipitation_rate_in,"0    0.862622
+dtype: float64",Delta_sm_10_perPtot,"0    0.817071
+dtype: float64"
+88,dek,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,6.989647214927002,Peak_Precipitation_rate_in,"0    0.864007
+dtype: float64",Prior_sm_10,"0    0.754773
+dtype: float64"
+89,dek,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,6.978273949982,Peak_Precipitation_rate_in,"0    0.862601
+dtype: float64",Prior_sm_100,"0    0.756557
+dtype: float64"
+90,dek,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.81505252603,Median_Precipitation_rate_in,"0    0.953893
+dtype: float64",Delta_sm_10,"0    0.769626
+dtype: float64"
+91,dek,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.802329394884,Median_Precipitation_rate_in,"0    0.952112
+dtype: float64",Delta_sm_100,"0    0.787258
+dtype: float64"
+92,dek,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.606355299114999,Median_Precipitation_rate_in,"0    0.924682
+dtype: float64",Delta_sm_100_perPtot,"0    0.901831
+dtype: float64"
+93,dek,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.794675336373,Median_Precipitation_rate_in,"0    0.951041
+dtype: float64",Delta_sm_10_perPtot,"0    0.795555
+dtype: float64"
+94,dek,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.621157643164999,Total_Precipitation_in,"0    0.907949
+dtype: float64",Delta_sm_10,"0    0.860659
+dtype: float64"
+95,dek,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.712018948414,Total_Precipitation_in,"0    0.918773
+dtype: float64",Delta_sm_100,"0    0.89254
+dtype: float64"
+96,dek,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.8842705726030005,Prior_sm_10,"0    0.743394
+dtype: float64",Delta_sm_100_perPtot,"0    0.939769
+dtype: float64"
+97,dek,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.078209377327001,Prior_sm_10,"0    0.764337
+dtype: float64",Delta_sm_10_perPtot,"0    0.828752
+dtype: float64"
+98,dek,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.889489694470999,Prior_sm_100,"0    0.746932
+dtype: float64",Delta_sm_100_perPtot,"0    0.940482
+dtype: float64"
+99,dek,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.067663381282999,Prior_sm_100,"0    0.766248
+dtype: float64",Delta_sm_10_perPtot,"0    0.827517
+dtype: float64"
+100,dxs,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.016464701297,Avg_Precipitation_rate_in,"0    0.915213
+dtype: float64",Delta_sm_10,"0    0.786679
+dtype: float64"
+101,dxs,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.029549224673001,Avg_Precipitation_rate_in,"0    0.916919
+dtype: float64",Delta_sm_100,"0    0.788731
+dtype: float64"
+102,dxs,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.689424168154,Avg_Precipitation_rate_in,"0    0.872554
+dtype: float64",Delta_sm_100_perPtot,"0    0.947546
+dtype: float64"
+103,dxs,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.864426755082999,Avg_Precipitation_rate_in,"0    0.895381
+dtype: float64",Delta_sm_10_perPtot,"0    0.831605
+dtype: float64"
+104,dxs,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.602337517315998,Peak_Precipitation_rate_in,"0    0.921376
+dtype: float64",Delta_sm_10,"0    0.852366
+dtype: float64"
+105,dxs,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.6031855074740005,Peak_Precipitation_rate_in,"0    0.921478
+dtype: float64",Delta_sm_100,"0    0.853094
+dtype: float64"
+106,dxs,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.776527618246,Peak_Precipitation_rate_in,"0    0.82129
+dtype: float64",Delta_sm_100_perPtot,"0    0.959884
+dtype: float64"
+107,dxs,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,7.000756440585997,Peak_Precipitation_rate_in,"0    0.848466
+dtype: float64",Delta_sm_10_perPtot,"0    0.848121
+dtype: float64"
+108,dxs,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.021896394484001,Peak_Precipitation_rate_in,"0    0.851028
+dtype: float64",Prior_sm_10,"0    0.763472
+dtype: float64"
+109,dxs,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,6.995731577513002,Peak_Precipitation_rate_in,"0    0.847857
+dtype: float64",Prior_sm_100,"0    0.775309
+dtype: float64"
+110,dxs,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.895787071743003,Median_Precipitation_rate_in,"0    0.917614
+dtype: float64",Delta_sm_10,"0    0.773149
+dtype: float64"
+111,dxs,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.910914454518,Median_Precipitation_rate_in,"0    0.919627
+dtype: float64",Delta_sm_100,"0    0.775419
+dtype: float64"
+112,dxs,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.649717374219999,Median_Precipitation_rate_in,"0    0.88487
+dtype: float64",Delta_sm_100_perPtot,"0    0.941922
+dtype: float64"
+113,dxs,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.819601110149,Median_Precipitation_rate_in,"0    0.907477
+dtype: float64",Delta_sm_10_perPtot,"0    0.826174
+dtype: float64"
+114,dxs,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.6282590531690015,Total_Precipitation_in,"0    0.970223
+dtype: float64",Delta_sm_10,"0    0.855273
+dtype: float64"
+115,dxs,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.6593646678030005,Total_Precipitation_in,"0    0.974179
+dtype: float64",Delta_sm_100,"0    0.859397
+dtype: float64"
+116,dxs,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.887453352481,Prior_sm_10,"0    0.748854
+dtype: float64",Delta_sm_100_perPtot,"0    0.975597
+dtype: float64"
+117,dxs,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.072239677328001,Prior_sm_10,"0    0.768946
+dtype: float64",Delta_sm_10_perPtot,"0    0.856781
+dtype: float64"
+118,dxs,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.858740811075002,Prior_sm_100,"0    0.760127
+dtype: float64",Delta_sm_100_perPtot,"0    0.97153
+dtype: float64"
+119,dxs,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.037474400025999,Prior_sm_100,"0    0.779936
+dtype: float64",Delta_sm_10_perPtot,"0    0.852569
+dtype: float64"
+120,fai,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.053016269272,Avg_Precipitation_rate_in,"0    0.931742
+dtype: float64",Delta_sm_10,"0    0.784559
+dtype: float64"
+121,fai,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.006904858199,Avg_Precipitation_rate_in,"0    0.92565
+dtype: float64",Delta_sm_100,"0    0.810106
+dtype: float64"
+122,fai,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.696501341166,Avg_Precipitation_rate_in,"0    0.884644
+dtype: float64",Delta_sm_100_perPtot,"0    0.896863
+dtype: float64"
+123,fai,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.857792670272,Avg_Precipitation_rate_in,"0    0.905952
+dtype: float64",Delta_sm_10_perPtot,"0    0.839626
+dtype: float64"
+124,fai,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.519890888734,Peak_Precipitation_rate_in,"0    0.898863
+dtype: float64",Delta_sm_10,"0    0.836493
+dtype: float64"
+125,fai,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.449269308320002,Peak_Precipitation_rate_in,"0    0.890422
+dtype: float64",Delta_sm_100,"0    0.86125
+dtype: float64"
+126,fai,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.811939150711,Peak_Precipitation_rate_in,"0    0.814241
+dtype: float64",Delta_sm_100_perPtot,"0    0.912323
+dtype: float64"
+127,fai,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.984003973467999,Peak_Precipitation_rate_in,"0    0.834808
+dtype: float64",Delta_sm_10_perPtot,"0    0.855079
+dtype: float64"
+128,fai,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.048180270556001,Peak_Precipitation_rate_in,"0    0.842479
+dtype: float64",Prior_sm_10,"0    0.763203
+dtype: float64"
+129,fai,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.018438329415002,Peak_Precipitation_rate_in,"0    0.838924
+dtype: float64",Prior_sm_100,"0    0.774036
+dtype: float64"
+130,fai,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.86877428733,Median_Precipitation_rate_in,"0    0.964338
+dtype: float64",Delta_sm_10,"0    0.764065
+dtype: float64"
+131,fai,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.839216009679999,Median_Precipitation_rate_in,"0    0.960188
+dtype: float64",Delta_sm_100,"0    0.790718
+dtype: float64"
+132,fai,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.6195251872670005,Median_Precipitation_rate_in,"0    0.929345
+dtype: float64",Delta_sm_100_perPtot,"0    0.886553
+dtype: float64"
+133,fai,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.777914441937,Median_Precipitation_rate_in,"0    0.951582
+dtype: float64",Delta_sm_10_perPtot,"0    0.829846
+dtype: float64"
+134,fai,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.487786098490002,Total_Precipitation_in,"0    0.940974
+dtype: float64",Delta_sm_10,"0    0.832922
+dtype: float64"
+135,fai,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.443292653883999,Total_Precipitation_in,"0    0.935383
+dtype: float64",Delta_sm_100,"0    0.860559
+dtype: float64"
+136,fai,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.910644835824998,Prior_sm_10,"0    0.748311
+dtype: float64",Delta_sm_100_perPtot,"0    0.925543
+dtype: float64"
+137,fai,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.078908160491999,Prior_sm_10,"0    0.766531
+dtype: float64",Delta_sm_10_perPtot,"0    0.866698
+dtype: float64"
+138,fai,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.886791814480999,Prior_sm_100,"0    0.759517
+dtype: float64",Delta_sm_100_perPtot,"0    0.922348
+dtype: float64"
+139,fai,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.043964835448998,Prior_sm_100,"0    0.776851
+dtype: float64",Delta_sm_10_perPtot,"0    0.86242
+dtype: float64"
+140,fre,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.965914363557998,Avg_Precipitation_rate_in,"0    0.93656
+dtype: float64",Delta_sm_10,"0    0.79182
+dtype: float64"
+141,fre,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.934704783675,Avg_Precipitation_rate_in,"0    0.932364
+dtype: float64",Delta_sm_100,"0    0.825644
+dtype: float64"
+142,fre,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.6551118007420005,Avg_Precipitation_rate_in,"0    0.894773
+dtype: float64",Delta_sm_100_perPtot,"0    0.898367
+dtype: float64"
+143,fre,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.779400378112001,Avg_Precipitation_rate_in,"0    0.911484
+dtype: float64",Delta_sm_10_perPtot,"0    0.845709
+dtype: float64"
+144,fre,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.464072345204,Peak_Precipitation_rate_in,"0    0.925967
+dtype: float64",Delta_sm_10,"0    0.848446
+dtype: float64"
+145,fre,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.475100263945,Peak_Precipitation_rate_in,"0    0.927335
+dtype: float64",Delta_sm_100,"0    0.889983
+dtype: float64"
+146,fre,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.738165673695001,Peak_Precipitation_rate_in,"0    0.835914
+dtype: float64",Delta_sm_100_perPtot,"0    0.909578
+dtype: float64"
+147,fre,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.881748557009001,Peak_Precipitation_rate_in,"0    0.853726
+dtype: float64",Delta_sm_10_perPtot,"0    0.858476
+dtype: float64"
+148,fre,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,6.980420812542002,Peak_Precipitation_rate_in,"0    0.865967
+dtype: float64",Prior_sm_10,"0    0.759488
+dtype: float64"
+149,fre,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,6.970321323598002,Peak_Precipitation_rate_in,"0    0.864714
+dtype: float64",Prior_sm_100,"0    0.762675
+dtype: float64"
+150,fre,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.814656636973,Median_Precipitation_rate_in,"0    0.956926
+dtype: float64",Delta_sm_10,"0    0.774626
+dtype: float64"
+151,fre,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.764378354145,Median_Precipitation_rate_in,"0    0.949866
+dtype: float64",Delta_sm_100,"0    0.805365
+dtype: float64"
+152,fre,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.614140775989,Median_Precipitation_rate_in,"0    0.928769
+dtype: float64",Delta_sm_100_perPtot,"0    0.892836
+dtype: float64"
+153,fre,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.737388726452,Median_Precipitation_rate_in,"0    0.946076
+dtype: float64",Delta_sm_10_perPtot,"0    0.840468
+dtype: float64"
+154,fre,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.467982368174997,Total_Precipitation_in,"0    0.9927
+dtype: float64",Delta_sm_10,"0    0.84889
+dtype: float64"
+155,fre,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.5539651901500005,Total_Precipitation_in,"0    1.004129
+dtype: float64",Delta_sm_100,"0    0.899373
+dtype: float64"
+156,fre,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.871917317368002,Prior_sm_10,"0    0.747682
+dtype: float64",Delta_sm_100_perPtot,"0    0.927633
+dtype: float64"
+157,fre,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,6.993304813296,Prior_sm_10,"0    0.760889
+dtype: float64",Delta_sm_10_perPtot,"0    0.872393
+dtype: float64"
+158,fre,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.869037717637001,Prior_sm_100,"0    0.751592
+dtype: float64",Delta_sm_100_perPtot,"0    0.927244
+dtype: float64"
+159,fre,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,6.978814593027,Prior_sm_100,"0    0.763604
+dtype: float64",Delta_sm_10_perPtot,"0    0.870585
+dtype: float64"
+160,frm,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.053038709203998,Avg_Precipitation_rate_in,"0    0.890362
+dtype: float64",Delta_sm_10,"0    0.800347
+dtype: float64"
+161,frm,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.9306939812540005,Avg_Precipitation_rate_in,"0    0.874918
+dtype: float64",Delta_sm_100,"0    0.87222
+dtype: float64"
+162,frm,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.732081937216,Avg_Precipitation_rate_in,"0    0.849845
+dtype: float64",Delta_sm_100_perPtot,"0    0.900346
+dtype: float64"
+163,frm,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.914238338155,Avg_Precipitation_rate_in,"0    0.87284
+dtype: float64",Delta_sm_10_perPtot,"0    0.824668
+dtype: float64"
+164,frm,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.550525394553997,Peak_Precipitation_rate_in,"0    0.899439
+dtype: float64",Delta_sm_10,"0    0.856799
+dtype: float64"
+165,frm,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.324266281737,Peak_Precipitation_rate_in,"0    0.872487
+dtype: float64",Delta_sm_100,"0    0.92175
+dtype: float64"
+166,frm,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.817941733584998,Peak_Precipitation_rate_in,"0    0.812172
+dtype: float64",Delta_sm_100_perPtot,"0    0.911829
+dtype: float64"
+167,frm,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,7.0138748107929985,Peak_Precipitation_rate_in,"0    0.835512
+dtype: float64",Delta_sm_10_perPtot,"0    0.836552
+dtype: float64"
+168,frm,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.004359468313,Peak_Precipitation_rate_in,"0    0.834379
+dtype: float64",Prior_sm_10,"0    0.772811
+dtype: float64"
+169,frm,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.001303763253,Peak_Precipitation_rate_in,"0    0.834015
+dtype: float64",Prior_sm_100,"0    0.78132
+dtype: float64"
+170,frm,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.899576269309998,Median_Precipitation_rate_in,"0    0.910996
+dtype: float64",Delta_sm_10,"0    0.782932
+dtype: float64"
+171,frm,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.788354592479001,Median_Precipitation_rate_in,"0    0.89631
+dtype: float64",Delta_sm_100,"0    0.854307
+dtype: float64"
+172,frm,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.675705323454,Median_Precipitation_rate_in,"0    0.881436
+dtype: float64",Delta_sm_100_perPtot,"0    0.892806
+dtype: float64"
+173,frm,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.859365914008,Median_Precipitation_rate_in,"0    0.905686
+dtype: float64",Delta_sm_10_perPtot,"0    0.818124
+dtype: float64"
+174,frm,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.558246029422001,Total_Precipitation_in,"0    0.943577
+dtype: float64",Delta_sm_10,"0    0.857675
+dtype: float64"
+175,frm,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.435074109931001,Total_Precipitation_in,"0    0.9282
+dtype: float64",Delta_sm_100,"0    0.935695
+dtype: float64"
+176,frm,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.88910171405,Prior_sm_10,"0    0.760094
+dtype: float64",Delta_sm_100_perPtot,"0    0.921346
+dtype: float64"
+177,frm,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.031763074956999,Prior_sm_10,"0    0.775834
+dtype: float64",Delta_sm_10_perPtot,"0    0.838686
+dtype: float64"
+178,frm,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.90289729453,Prior_sm_100,"0    0.770339
+dtype: float64",Delta_sm_100_perPtot,"0    0.923191
+dtype: float64"
+179,frm,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.026851827823,Prior_sm_100,"0    0.784171
+dtype: float64",Delta_sm_10_perPtot,"0    0.8381
+dtype: float64"
+180,icc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.967170701341001,Avg_Precipitation_rate_in,"0    0.96063
+dtype: float64",Delta_sm_10,"0    0.780155
+dtype: float64"
+181,icc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.926778363695,Avg_Precipitation_rate_in,"0    0.955061
+dtype: float64",Delta_sm_100,"0    0.810396
+dtype: float64"
+182,icc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.6338230977100014,Avg_Precipitation_rate_in,"0    0.914668
+dtype: float64",Delta_sm_100_perPtot,"0    0.903444
+dtype: float64"
+183,icc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.7865974311079995,Avg_Precipitation_rate_in,"0    0.935732
+dtype: float64",Delta_sm_10_perPtot,"0    0.831445
+dtype: float64"
+184,icc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.469137569008,Peak_Precipitation_rate_in,"0    0.903611
+dtype: float64",Delta_sm_10,"0    0.836363
+dtype: float64"
+185,icc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.355715136877,Peak_Precipitation_rate_in,"0    0.889889
+dtype: float64",Delta_sm_100,"0    0.860579
+dtype: float64"
+186,icc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.763631632603001,Peak_Precipitation_rate_in,"0    0.818259
+dtype: float64",Delta_sm_100_perPtot,"0    0.921123
+dtype: float64"
+187,icc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.948291275560999,Peak_Precipitation_rate_in,"0    0.840599
+dtype: float64",Delta_sm_10_perPtot,"0    0.851254
+dtype: float64"
+188,icc,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,6.994468364587004,Peak_Precipitation_rate_in,"0    0.846185
+dtype: float64",Prior_sm_10,"0    0.760783
+dtype: float64"
+189,icc,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,6.990005020299002,Peak_Precipitation_rate_in,"0    0.845645
+dtype: float64",Prior_sm_100,"0    0.763247
+dtype: float64"
+190,icc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.826847062843999,Median_Precipitation_rate_in,"0    0.971991
+dtype: float64",Delta_sm_10,"0    0.764442
+dtype: float64"
+191,icc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.788763560549999,Median_Precipitation_rate_in,"0    0.966569
+dtype: float64",Delta_sm_100,"0    0.794249
+dtype: float64"
+192,icc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.5895754447509995,Median_Precipitation_rate_in,"0    0.938209
+dtype: float64",Delta_sm_100_perPtot,"0    0.897418
+dtype: float64"
+193,icc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.737622948510001,Median_Precipitation_rate_in,"0    0.959288
+dtype: float64",Delta_sm_10_perPtot,"0    0.825445
+dtype: float64"
+194,icc,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.645520787029,Total_Precipitation_in,"0    0.911299
+dtype: float64",Delta_sm_10,"0    0.856113
+dtype: float64"
+195,icc,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.591773278818,Total_Precipitation_in,"0    0.904893
+dtype: float64",Delta_sm_100,"0    0.888197
+dtype: float64"
+196,icc,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.8634700859930025,Prior_sm_10,"0    0.746535
+dtype: float64",Delta_sm_100_perPtot,"0    0.934719
+dtype: float64"
+197,icc,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.011817876974002,Prior_sm_10,"0    0.76267
+dtype: float64",Delta_sm_10_perPtot,"0    0.859037
+dtype: float64"
+198,icc,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.866017605507,Prior_sm_100,"0    0.749708
+dtype: float64",Delta_sm_100_perPtot,"0    0.935066
+dtype: float64"
+199,icc,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.007092265626003,Prior_sm_100,"0    0.765112
+dtype: float64",Delta_sm_10_perPtot,"0    0.858458
+dtype: float64"
+200,llc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.974949428919999,Avg_Precipitation_rate_in,"0    0.950979
+dtype: float64",Delta_sm_10,"0    0.775855
+dtype: float64"
+201,llc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.912956566064999,Avg_Precipitation_rate_in,"0    0.942527
+dtype: float64",Delta_sm_100,"0    0.811677
+dtype: float64"
+202,llc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.656239148128998,Avg_Precipitation_rate_in,"0    0.907525
+dtype: float64",Delta_sm_100_perPtot,"0    0.892059
+dtype: float64"
+203,llc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.826536703813002,Avg_Precipitation_rate_in,"0    0.930744
+dtype: float64",Delta_sm_10_perPtot,"0    0.825574
+dtype: float64"
+204,llc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.496976500554998,Peak_Precipitation_rate_in,"0    0.870238
+dtype: float64",Delta_sm_10,"0    0.833922
+dtype: float64"
+205,llc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.439028610951999,Peak_Precipitation_rate_in,"0    0.863512
+dtype: float64",Delta_sm_100,"0    0.873445
+dtype: float64"
+206,llc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.826573839159,Peak_Precipitation_rate_in,"0    0.792419
+dtype: float64",Delta_sm_100_perPtot,"0    0.914887
+dtype: float64"
+207,llc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,7.026447899750998,Peak_Precipitation_rate_in,"0    0.81562
+dtype: float64",Delta_sm_10_perPtot,"0    0.84975
+dtype: float64"
+208,llc,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.057396669538997,Peak_Precipitation_rate_in,"0    0.819212
+dtype: float64",Prior_sm_10,"0    0.772692
+dtype: float64"
+209,llc,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.062450434350998,Peak_Precipitation_rate_in,"0    0.819799
+dtype: float64",Prior_sm_100,"0    0.774169
+dtype: float64"
+210,llc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.8543734912800005,Median_Precipitation_rate_in,"0    0.972386
+dtype: float64",Delta_sm_10,"0    0.762442
+dtype: float64"
+211,llc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.796529067553999,Median_Precipitation_rate_in,"0    0.96418
+dtype: float64",Delta_sm_100,"0    0.798007
+dtype: float64"
+212,llc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.612179740128,Median_Precipitation_rate_in,"0    0.938027
+dtype: float64",Delta_sm_100_perPtot,"0    0.886154
+dtype: float64"
+213,llc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.774630296738,Median_Precipitation_rate_in,"0    0.961073
+dtype: float64",Delta_sm_10_perPtot,"0    0.819296
+dtype: float64"
+214,llc,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.636893960480997,Total_Precipitation_in,"0    0.888251
+dtype: float64",Delta_sm_10,"0    0.849486
+dtype: float64"
+215,llc,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.723379262718998,Total_Precipitation_in,"0    0.898311
+dtype: float64",Delta_sm_100,"0    0.906832
+dtype: float64"
+216,llc,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.877736326563998,Prior_sm_10,"0    0.753021
+dtype: float64",Delta_sm_100_perPtot,"0    0.921743
+dtype: float64"
+217,llc,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.063150452464999,Prior_sm_10,"0    0.773322
+dtype: float64",Delta_sm_10_perPtot,"0    0.854189
+dtype: float64"
+218,llc,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.8966440895079995,Prior_sm_100,"0    0.755994
+dtype: float64",Delta_sm_100_perPtot,"0    0.924277
+dtype: float64"
+219,llc,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.065532836360001,Prior_sm_100,"0    0.774507
+dtype: float64",Delta_sm_10_perPtot,"0    0.854477
+dtype: float64"
+220,mon,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.104884814039002,Avg_Precipitation_rate_in,"0    0.906006
+dtype: float64",Delta_sm_10,"0    0.781915
+dtype: float64"
+221,mon,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.053972036270002,Avg_Precipitation_rate_in,"0    0.899513
+dtype: float64",Delta_sm_100,"0    0.797823
+dtype: float64"
+222,mon,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.687637071733999,Avg_Precipitation_rate_in,"0    0.852799
+dtype: float64",Delta_sm_100_perPtot,"0    0.931594
+dtype: float64"
+223,mon,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.894044981078002,Avg_Precipitation_rate_in,"0    0.87912
+dtype: float64",Delta_sm_10_perPtot,"0    0.832701
+dtype: float64"
+224,mon,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.617119687523001,Peak_Precipitation_rate_in,"0    0.912633
+dtype: float64",Delta_sm_10,"0    0.838288
+dtype: float64"
+225,mon,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.654534530736999,Peak_Precipitation_rate_in,"0    0.917116
+dtype: float64",Delta_sm_100,"0    0.865749
+dtype: float64"
+226,mon,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.7694307614380005,Peak_Precipitation_rate_in,"0    0.811068
+dtype: float64",Delta_sm_100_perPtot,"0    0.942988
+dtype: float64"
+227,mon,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,7.034485656798999,Peak_Precipitation_rate_in,"0    0.842826
+dtype: float64",Delta_sm_10_perPtot,"0    0.849664
+dtype: float64"
+228,mon,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.019957308268999,Peak_Precipitation_rate_in,"0    0.841085
+dtype: float64",Prior_sm_10,"0    0.759942
+dtype: float64"
+229,mon,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.014244539246,Peak_Precipitation_rate_in,"0    0.8404
+dtype: float64",Prior_sm_100,"0    0.763051
+dtype: float64"
+230,mon,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.942965174953001,Median_Precipitation_rate_in,"0    0.909726
+dtype: float64",Delta_sm_10,"0    0.764095
+dtype: float64"
+231,mon,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.884850222294,Median_Precipitation_rate_in,"0    0.902112
+dtype: float64",Delta_sm_100,"0    0.778695
+dtype: float64"
+232,mon,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.642192018602001,Median_Precipitation_rate_in,"0    0.870316
+dtype: float64",Delta_sm_100_perPtot,"0    0.925264
+dtype: float64"
+233,mon,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.843125684283999,Median_Precipitation_rate_in,"0    0.896644
+dtype: float64",Delta_sm_10_perPtot,"0    0.826551
+dtype: float64"
+234,mon,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.738249472327999,Total_Precipitation_in,"0    0.92087
+dtype: float64",Delta_sm_10,"0    0.851618
+dtype: float64"
+235,mon,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,8.065082736706998,Total_Precipitation_in,"0    0.959764
+dtype: float64",Delta_sm_100,"0    0.912183
+dtype: float64"
+236,mon,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.8705605376120005,Prior_sm_10,"0    0.743769
+dtype: float64",Delta_sm_100_perPtot,"0    0.957076
+dtype: float64"
+237,mon,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.040115975808998,Prior_sm_10,"0    0.762124
+dtype: float64",Delta_sm_10_perPtot,"0    0.850344
+dtype: float64"
+238,mon,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.865447486610002,Prior_sm_100,"0    0.746864
+dtype: float64",Delta_sm_100_perPtot,"0    0.956363
+dtype: float64"
+239,mon,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.035318909329,Prior_sm_100,"0    0.765344
+dtype: float64",Delta_sm_10_perPtot,"0    0.849765
+dtype: float64"
+240,oln,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.979354295101997,Avg_Precipitation_rate_in,"0    0.925211
+dtype: float64",Delta_sm_10,"0    0.790979
+dtype: float64"
+241,oln,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.906045708615997,Avg_Precipitation_rate_in,"0    0.915492
+dtype: float64",Delta_sm_100,"0    0.814691
+dtype: float64"
+242,oln,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.670378175047,Avg_Precipitation_rate_in,"0    0.884251
+dtype: float64",Delta_sm_100_perPtot,"0    0.894319
+dtype: float64"
+243,oln,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.7968766808600005,Avg_Precipitation_rate_in,"0    0.901021
+dtype: float64",Delta_sm_10_perPtot,"0    0.849838
+dtype: float64"
+244,oln,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.460404021282001,Peak_Precipitation_rate_in,"0    0.889329
+dtype: float64",Delta_sm_10,"0    0.845497
+dtype: float64"
+245,oln,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.348366042406001,Peak_Precipitation_rate_in,"0    0.875974
+dtype: float64",Delta_sm_100,"0    0.86687
+dtype: float64"
+246,oln,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.797724908260999,Peak_Precipitation_rate_in,"0    0.810334
+dtype: float64",Delta_sm_100_perPtot,"0    0.911393
+dtype: float64"
+247,oln,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.920919512808,Peak_Precipitation_rate_in,"0    0.825019
+dtype: float64",Delta_sm_10_perPtot,"0    0.865348
+dtype: float64"
+248,oln,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.0356905956319995,Peak_Precipitation_rate_in,"0    0.838701
+dtype: float64",Prior_sm_10,"0    0.764285
+dtype: float64"
+249,oln,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.040721431285,Peak_Precipitation_rate_in,"0    0.8393
+dtype: float64",Prior_sm_100,"0    0.762392
+dtype: float64"
+250,oln,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.854758025795999,Median_Precipitation_rate_in,"0    0.934837
+dtype: float64",Delta_sm_10,"0    0.776858
+dtype: float64"
+251,oln,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.798047606889998,Median_Precipitation_rate_in,"0    0.927103
+dtype: float64",Delta_sm_100,"0    0.801951
+dtype: float64"
+252,oln,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.6290313842709985,Median_Precipitation_rate_in,"0    0.904053
+dtype: float64",Delta_sm_100_perPtot,"0    0.888776
+dtype: float64"
+253,oln,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.753275472284001,Median_Precipitation_rate_in,"0    0.920997
+dtype: float64",Delta_sm_10_perPtot,"0    0.844387
+dtype: float64"
+254,oln,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.300962306605001,Total_Precipitation_in,"0    0.991573
+dtype: float64",Delta_sm_10,"0    0.827427
+dtype: float64"
+255,oln,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.323430734403999,Total_Precipitation_in,"0    0.994625
+dtype: float64",Delta_sm_100,"0    0.863929
+dtype: float64"
+256,oln,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.8907424897409975,Prior_sm_10,"0    0.74854
+dtype: float64",Delta_sm_100_perPtot,"0    0.923864
+dtype: float64"
+257,oln,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.039566199332999,Prior_sm_10,"0    0.764706
+dtype: float64",Delta_sm_10_perPtot,"0    0.880183
+dtype: float64"
+258,oln,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.903402316548998,Prior_sm_100,"0    0.747522
+dtype: float64",Delta_sm_100_perPtot,"0    0.925562
+dtype: float64"
+259,oln,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.027807232787998,Prior_sm_100,"0    0.760993
+dtype: float64",Delta_sm_10_perPtot,"0    0.878712
+dtype: float64"
+260,orr,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.024416417305,Avg_Precipitation_rate_in,"0    0.922844
+dtype: float64",Delta_sm_10,"0    0.796958
+dtype: float64"
+261,orr,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.977536835193,Avg_Precipitation_rate_in,"0    0.916685
+dtype: float64",Delta_sm_100,"0    0.802777
+dtype: float64"
+262,orr,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.663981210139999,Avg_Precipitation_rate_in,"0    0.875491
+dtype: float64",Delta_sm_100_perPtot,"0    0.925171
+dtype: float64"
+263,orr,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.805326741296,Avg_Precipitation_rate_in,"0    0.89406
+dtype: float64",Delta_sm_10_perPtot,"0    0.858497
+dtype: float64"
+264,orr,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.536430959598999,Peak_Precipitation_rate_in,"0    0.910282
+dtype: float64",Delta_sm_10,"0    0.855049
+dtype: float64"
+265,orr,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.394640914190999,Peak_Precipitation_rate_in,"0    0.893156
+dtype: float64",Delta_sm_100,"0    0.850766
+dtype: float64"
+266,orr,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.763888047056,Peak_Precipitation_rate_in,"0    0.816971
+dtype: float64",Delta_sm_100_perPtot,"0    0.939042
+dtype: float64"
+267,orr,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.942019738626003,Peak_Precipitation_rate_in,"0    0.838486
+dtype: float64",Delta_sm_10_perPtot,"0    0.875741
+dtype: float64"
+268,orr,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,6.9984870685219995,Peak_Precipitation_rate_in,"0    0.845307
+dtype: float64",Prior_sm_10,"0    0.770552
+dtype: float64"
+269,orr,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,6.993813343325,Peak_Precipitation_rate_in,"0    0.844742
+dtype: float64",Prior_sm_100,"0    0.773493
+dtype: float64"
+270,orr,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.8565084519690025,Median_Precipitation_rate_in,"0    0.937542
+dtype: float64",Delta_sm_10,"0    0.777908
+dtype: float64"
+271,orr,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.841275178504002,Median_Precipitation_rate_in,"0    0.935459
+dtype: float64",Delta_sm_100,"0    0.7871
+dtype: float64"
+272,orr,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.621477711233998,Median_Precipitation_rate_in,"0    0.905404
+dtype: float64",Delta_sm_100_perPtot,"0    0.919271
+dtype: float64"
+273,orr,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.752207303491,Median_Precipitation_rate_in,"0    0.92328
+dtype: float64",Delta_sm_10_perPtot,"0    0.851796
+dtype: float64"
+274,orr,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.511817934055001,Total_Precipitation_in,"0    0.926672
+dtype: float64",Delta_sm_10,"0    0.852256
+dtype: float64"
+275,orr,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.500231374847001,Total_Precipitation_in,"0    0.925243
+dtype: float64",Delta_sm_100,"0    0.862914
+dtype: float64"
+276,orr,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.880244277081999,Prior_sm_10,"0    0.757533
+dtype: float64",Delta_sm_100_perPtot,"0    0.955196
+dtype: float64"
+277,orr,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.021734547112002,Prior_sm_10,"0    0.773111
+dtype: float64",Delta_sm_10_perPtot,"0    0.885797
+dtype: float64"
+278,orr,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.893525715589002,Prior_sm_100,"0    0.762401
+dtype: float64",Delta_sm_100_perPtot,"0    0.957039
+dtype: float64"
+279,orr,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.014550523609001,Prior_sm_100,"0    0.775786
+dtype: float64",Delta_sm_10_perPtot,"0    0.884891
+dtype: float64"
+280,rnd,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.019435553753,Avg_Precipitation_rate_in,"0    0.883816
+dtype: float64",Delta_sm_10,"0    0.79083
+dtype: float64"
+281,rnd,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.958994759591002,Avg_Precipitation_rate_in,"0    0.876206
+dtype: float64",Delta_sm_100,"0    0.841787
+dtype: float64"
+282,rnd,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.714999969354999,Avg_Precipitation_rate_in,"0    0.845484
+dtype: float64",Delta_sm_100_perPtot,"0    0.937249
+dtype: float64"
+283,rnd,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.881178466314001,Avg_Precipitation_rate_in,"0    0.866408
+dtype: float64",Delta_sm_10_perPtot,"0    0.824188
+dtype: float64"
+284,rnd,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.484206136723001,Peak_Precipitation_rate_in,"0    0.892561
+dtype: float64",Delta_sm_10,"0    0.843193
+dtype: float64"
+285,rnd,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.4564788920790015,Peak_Precipitation_rate_in,"0    0.889254
+dtype: float64",Delta_sm_100,"0    0.901965
+dtype: float64"
+286,rnd,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.793886546843002,Peak_Precipitation_rate_in,"0    0.810234
+dtype: float64",Delta_sm_100_perPtot,"0    0.94826
+dtype: float64"
+287,rnd,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,7.010665994041,Peak_Precipitation_rate_in,"0    0.836087
+dtype: float64",Delta_sm_10_perPtot,"0    0.839698
+dtype: float64"
+288,rnd,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.054026951373,Peak_Precipitation_rate_in,"0    0.841258
+dtype: float64",Prior_sm_10,"0    0.764582
+dtype: float64"
+289,rnd,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.032807853154001,Peak_Precipitation_rate_in,"0    0.838728
+dtype: float64",Prior_sm_100,"0    0.774757
+dtype: float64"
+290,rnd,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.882917578041997,Median_Precipitation_rate_in,"0    0.899598
+dtype: float64",Delta_sm_10,"0    0.77545
+dtype: float64"
+291,rnd,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.813095890613001,Median_Precipitation_rate_in,"0    0.890472
+dtype: float64",Delta_sm_100,"0    0.824138
+dtype: float64"
+292,rnd,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.661274064564001,Median_Precipitation_rate_in,"0    0.870629
+dtype: float64",Delta_sm_100_perPtot,"0    0.92975
+dtype: float64"
+293,rnd,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.825327009036998,Median_Precipitation_rate_in,"0    0.892071
+dtype: float64",Delta_sm_10_perPtot,"0    0.817499
+dtype: float64"
+294,rnd,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.545322724016,Total_Precipitation_in,"0    0.93587
+dtype: float64",Delta_sm_10,"0    0.850078
+dtype: float64"
+295,rnd,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.5134124392810016,Total_Precipitation_in,"0    0.931912
+dtype: float64",Delta_sm_100,"0    0.908851
+dtype: float64"
+296,rnd,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.9032376056589975,Prior_sm_10,"0    0.748238
+dtype: float64",Delta_sm_100_perPtot,"0    0.963523
+dtype: float64"
+297,rnd,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.070939565930999,Prior_sm_10,"0    0.766415
+dtype: float64",Delta_sm_10_perPtot,"0    0.846917
+dtype: float64"
+298,rnd,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.880963458009003,Prior_sm_100,"0    0.75803
+dtype: float64",Delta_sm_100_perPtot,"0    0.960414
+dtype: float64"
+299,rnd,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.045414227997,Prior_sm_100,"0    0.776146
+dtype: float64",Delta_sm_10_perPtot,"0    0.84386
+dtype: float64"
+300,sfm,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.3175049426499985,Avg_Precipitation_rate_in,"0    0.977796
+dtype: float64",Delta_sm_10,"0    0.811375
+dtype: float64"
+301,sfm,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.289951216365001,Avg_Precipitation_rate_in,"0    0.974114
+dtype: float64",Delta_sm_100,"0    0.808472
+dtype: float64"
+302,sfm,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.867085042872999,Avg_Precipitation_rate_in,"0    0.917609
+dtype: float64",Delta_sm_100_perPtot,"0    0.989602
+dtype: float64"
+303,sfm,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,7.062055254813998,Avg_Precipitation_rate_in,"0    0.943661
+dtype: float64",Delta_sm_10_perPtot,"0    0.886425
+dtype: float64"
+304,sfm,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,8.117563772606001,Peak_Precipitation_rate_in,"0    0.952751
+dtype: float64",Delta_sm_10,"0    0.900087
+dtype: float64"
+305,sfm,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,8.058640831119998,Peak_Precipitation_rate_in,"0    0.945835
+dtype: float64",Delta_sm_100,"0    0.893721
+dtype: float64"
+306,sfm,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,7.0453056175,Peak_Precipitation_rate_in,"0    0.826901
+dtype: float64",Delta_sm_100_perPtot,"0    1.015285
+dtype: float64"
+307,sfm,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,7.249949992126,Peak_Precipitation_rate_in,"0    0.85092
+dtype: float64",Delta_sm_10_perPtot,"0    0.910009
+dtype: float64"
+308,sfm,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.367873037478002,Peak_Precipitation_rate_in,"0    0.86476
+dtype: float64",Prior_sm_10,"0    0.835172
+dtype: float64"
+309,sfm,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.391810944175999,Peak_Precipitation_rate_in,"0    0.86757
+dtype: float64",Prior_sm_100,"0    0.827441
+dtype: float64"
+310,sfm,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.208683921331,Median_Precipitation_rate_in,"0    0.979124
+dtype: float64",Delta_sm_10,"0    0.799309
+dtype: float64"
+311,sfm,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.206683222656002,Median_Precipitation_rate_in,"0    0.978852
+dtype: float64",Delta_sm_100,"0    0.799237
+dtype: float64"
+312,sfm,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.843104246084001,Median_Precipitation_rate_in,"0    0.929469
+dtype: float64",Delta_sm_100_perPtot,"0    0.986146
+dtype: float64"
+313,sfm,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,7.036856206403,Median_Precipitation_rate_in,"0    0.955785
+dtype: float64",Delta_sm_10_perPtot,"0    0.883262
+dtype: float64"
+314,sfm,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,8.256760076108998,Total_Precipitation_in,"0    0.965901
+dtype: float64",Delta_sm_10,"0    0.915521
+dtype: float64"
+315,sfm,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,8.573039629514,Total_Precipitation_in,"0    1.0029
+dtype: float64",Delta_sm_100,"0    0.950769
+dtype: float64"
+316,sfm,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,7.112583821745,Prior_sm_10,"0    0.806234
+dtype: float64",Delta_sm_100_perPtot,"0    1.02498
+dtype: float64"
+317,sfm,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.27610382862,Prior_sm_10,"0    0.82477
+dtype: float64",Delta_sm_10_perPtot,"0    0.913292
+dtype: float64"
+318,sfm,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,7.122914969695001,Prior_sm_100,"0    0.79734
+dtype: float64",Delta_sm_100_perPtot,"0    1.026469
+dtype: float64"
+319,sfm,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.300600792059001,Prior_sm_100,"0    0.81723
+dtype: float64",Delta_sm_10_perPtot,"0    0.916367
+dtype: float64"
+320,siu,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.025829043411997,Avg_Precipitation_rate_in,"0    0.864273
+dtype: float64",Delta_sm_10,"0    0.803656
+dtype: float64"
+321,siu,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.927557518213,Avg_Precipitation_rate_in,"0    0.852184
+dtype: float64",Delta_sm_100,"0    0.871138
+dtype: float64"
+322,siu,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.7198388392689985,Avg_Precipitation_rate_in,"0    0.826632
+dtype: float64",Delta_sm_100_perPtot,"0    0.948743
+dtype: float64"
+323,siu,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.891086575292,Avg_Precipitation_rate_in,"0    0.847698
+dtype: float64",Delta_sm_10_perPtot,"0    0.853577
+dtype: float64"
+324,siu,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.422290688521999,Peak_Precipitation_rate_in,"0    0.912958
+dtype: float64",Delta_sm_10,"0    0.849006
+dtype: float64"
+325,siu,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.2951794366790015,Peak_Precipitation_rate_in,"0    0.897323
+dtype: float64",Delta_sm_100,"0    0.917367
+dtype: float64"
+326,siu,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.737666667893,Peak_Precipitation_rate_in,"0    0.828747
+dtype: float64",Delta_sm_100_perPtot,"0    0.95126
+dtype: float64"
+327,siu,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.940840905224999,Peak_Precipitation_rate_in,"0    0.853738
+dtype: float64",Delta_sm_10_perPtot,"0    0.85974
+dtype: float64"
+328,siu,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.018668443677001,Peak_Precipitation_rate_in,"0    0.863311
+dtype: float64",Prior_sm_10,"0    0.760244
+dtype: float64"
+329,siu,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.0121266411,Peak_Precipitation_rate_in,"0    0.862507
+dtype: float64",Prior_sm_100,"0    0.767468
+dtype: float64"
+330,siu,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.889065234862999,Median_Precipitation_rate_in,"0    0.875362
+dtype: float64",Delta_sm_10,"0    0.788012
+dtype: float64"
+331,siu,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.803248228932,Median_Precipitation_rate_in,"0    0.864457
+dtype: float64",Delta_sm_100,"0    0.855507
+dtype: float64"
+332,siu,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.673521168034998,Median_Precipitation_rate_in,"0    0.847973
+dtype: float64",Delta_sm_100_perPtot,"0    0.942203
+dtype: float64"
+333,siu,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.828052990134001,Median_Precipitation_rate_in,"0    0.867609
+dtype: float64",Delta_sm_10_perPtot,"0    0.845769
+dtype: float64"
+334,siu,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.433694745567001,Total_Precipitation_in,"0    0.968879
+dtype: float64",Delta_sm_10,"0    0.85031
+dtype: float64"
+335,siu,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.474933142015999,Total_Precipitation_in,"0    0.974254
+dtype: float64",Delta_sm_100,"0    0.939971
+dtype: float64"
+336,siu,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.874961614252001,Prior_sm_10,"0    0.744678
+dtype: float64",Delta_sm_100_perPtot,"0    0.970644
+dtype: float64"
+337,siu,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.053657833373002,Prior_sm_10,"0    0.764034
+dtype: float64",Delta_sm_10_perPtot,"0    0.873714
+dtype: float64"
+338,siu,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.870271518808,Prior_sm_100,"0    0.751942
+dtype: float64",Delta_sm_100_perPtot,"0    0.969982
+dtype: float64"
+339,siu,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.031762497087001,Prior_sm_100,"0    0.769617
+dtype: float64",Delta_sm_10_perPtot,"0    0.871002
+dtype: float64"
+340,sni,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.252437973217003,Avg_Precipitation_rate_in,"0    0.897332
+dtype: float64",Delta_sm_10,"0    0.825205
+dtype: float64"
+341,sni,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.214284620709002,Avg_Precipitation_rate_in,"0    0.892611
+dtype: float64",Delta_sm_100,"0    0.83501
+dtype: float64"
+342,sni,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.823204683968003,Avg_Precipitation_rate_in,"0    0.844224
+dtype: float64",Delta_sm_100_perPtot,"0    0.989799
+dtype: float64"
+343,sni,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.971827684668002,Avg_Precipitation_rate_in,"0    0.862612
+dtype: float64",Delta_sm_10_perPtot,"0    0.906192
+dtype: float64"
+344,sni,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.8903054053209996,Peak_Precipitation_rate_in,"0    0.921752
+dtype: float64",Delta_sm_10,"0    0.897783
+dtype: float64"
+345,sni,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.927281481068,Peak_Precipitation_rate_in,"0    0.926072
+dtype: float64",Delta_sm_100,"0    0.917535
+dtype: float64"
+346,sni,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.9148704607510005,Peak_Precipitation_rate_in,"0    0.807801
+dtype: float64",Delta_sm_100_perPtot,"0    1.003097
+dtype: float64"
+347,sni,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,7.057123888217003,Peak_Precipitation_rate_in,"0    0.824419
+dtype: float64",Delta_sm_10_perPtot,"0    0.917279
+dtype: float64"
+348,sni,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.255860522491,Peak_Precipitation_rate_in,"0    0.847636
+dtype: float64",Prior_sm_10,"0    0.789383
+dtype: float64"
+349,sni,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.240395533912,Peak_Precipitation_rate_in,"0    0.845829
+dtype: float64",Prior_sm_100,"0    0.795363
+dtype: float64"
+350,sni,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.093044679549001,Median_Precipitation_rate_in,"0    0.903721
+dtype: float64",Delta_sm_10,"0    0.807069
+dtype: float64"
+351,sni,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.060604360668,Median_Precipitation_rate_in,"0    0.899587
+dtype: float64",Delta_sm_100,"0    0.817223
+dtype: float64"
+352,sni,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.7809053460360005,Median_Precipitation_rate_in,"0    0.863951
+dtype: float64",Delta_sm_100_perPtot,"0    0.983663
+dtype: float64"
+353,sni,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.928717652202,Median_Precipitation_rate_in,"0    0.882784
+dtype: float64",Delta_sm_10_perPtot,"0    0.900588
+dtype: float64"
+354,sni,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,8.396375693611999,Total_Precipitation_in,"0    1.00584
+dtype: float64",Delta_sm_10,"0    0.955366
+dtype: float64"
+355,sni,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,8.339688690529998,Total_Precipitation_in,"0    0.999049
+dtype: float64",Delta_sm_100,"0    0.965269
+dtype: float64"
+356,sni,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,7.003974077274,Prior_sm_10,"0    0.76198
+dtype: float64",Delta_sm_100_perPtot,"0    1.016022
+dtype: float64"
+357,sni,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.161978675876002,Prior_sm_10,"0    0.77917
+dtype: float64",Delta_sm_10_perPtot,"0    0.930908
+dtype: float64"
+358,sni,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.986319678880999,Prior_sm_100,"0    0.767453
+dtype: float64",Delta_sm_100_perPtot,"0    1.013461
+dtype: float64"
+359,sni,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.134394786539001,Prior_sm_100,"0    0.783719
+dtype: float64",Delta_sm_10_perPtot,"0    0.927322
+dtype: float64"
+360,stc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.959848799889002,Avg_Precipitation_rate_in,"0    0.931466
+dtype: float64",Delta_sm_10,"0    0.77352
+dtype: float64"
+361,stc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.953149420142001,Avg_Precipitation_rate_in,"0    0.930569
+dtype: float64",Delta_sm_100,"0    0.788557
+dtype: float64"
+362,stc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.660244037211999,Avg_Precipitation_rate_in,"0    0.891369
+dtype: float64",Delta_sm_100_perPtot,"0    0.917438
+dtype: float64"
+363,stc,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.7978572708480005,Avg_Precipitation_rate_in,"0    0.909786
+dtype: float64",Delta_sm_10_perPtot,"0    0.853118
+dtype: float64"
+364,stc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.596021890145,Peak_Precipitation_rate_in,"0    0.929819
+dtype: float64",Delta_sm_10,"0    0.844225
+dtype: float64"
+365,stc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.5468647849220005,Peak_Precipitation_rate_in,"0    0.923802
+dtype: float64",Delta_sm_100,"0    0.85589
+dtype: float64"
+366,stc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.775413443214999,Peak_Precipitation_rate_in,"0    0.829369
+dtype: float64",Delta_sm_100_perPtot,"0    0.933303
+dtype: float64"
+367,stc,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.970334255109002,Peak_Precipitation_rate_in,"0    0.853229
+dtype: float64",Delta_sm_10_perPtot,"0    0.874764
+dtype: float64"
+368,stc,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,6.969063745867,Peak_Precipitation_rate_in,"0    0.853074
+dtype: float64",Prior_sm_10,"0    0.758327
+dtype: float64"
+369,stc,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,6.960578400809002,Peak_Precipitation_rate_in,"0    0.852035
+dtype: float64",Prior_sm_100,"0    0.764106
+dtype: float64"
+370,stc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.837905513407,Median_Precipitation_rate_in,"0    0.941767
+dtype: float64",Delta_sm_10,"0    0.759968
+dtype: float64"
+371,stc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.825235245272001,Median_Precipitation_rate_in,"0    0.940022
+dtype: float64",Delta_sm_100,"0    0.77405
+dtype: float64"
+372,stc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.615721946713999,Median_Precipitation_rate_in,"0    0.911166
+dtype: float64",Delta_sm_100_perPtot,"0    0.911305
+dtype: float64"
+373,stc,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.734374830316002,Median_Precipitation_rate_in,"0    0.927508
+dtype: float64",Delta_sm_10_perPtot,"0    0.845151
+dtype: float64"
+374,stc,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.767680325497999,Total_Precipitation_in,"0    1.015633
+dtype: float64",Delta_sm_10,"0    0.863303
+dtype: float64"
+375,stc,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.893807264111,Total_Precipitation_in,"0    1.032124
+dtype: float64",Delta_sm_100,"0    0.895237
+dtype: float64"
+376,stc,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.862996164730999,Prior_sm_10,"0    0.746786
+dtype: float64",Delta_sm_100_perPtot,"0    0.945367
+dtype: float64"
+377,stc,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,6.977072755267001,Prior_sm_10,"0    0.759199
+dtype: float64",Delta_sm_10_perPtot,"0    0.87561
+dtype: float64"
+378,stc,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.855891867298002,Prior_sm_100,"0    0.752614
+dtype: float64",Delta_sm_100_perPtot,"0    0.944388
+dtype: float64"
+379,stc,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,6.9590588427530005,Prior_sm_100,"0    0.76394
+dtype: float64",Delta_sm_10_perPtot,"0    0.873349
+dtype: float64"
+380,ste,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.9590370260490015,Avg_Precipitation_rate_in,"0    0.941384
+dtype: float64",Delta_sm_10,"0    0.781722
+dtype: float64"
+381,ste,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.907239216641001,Avg_Precipitation_rate_in,"0    0.934377
+dtype: float64",Delta_sm_100,"0    0.803748
+dtype: float64"
+382,ste,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.6531737819179995,Avg_Precipitation_rate_in,"0    0.900008
+dtype: float64",Delta_sm_100_perPtot,"0    0.921888
+dtype: float64"
+383,ste,0,MI_Avg_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.80375255947,Avg_Precipitation_rate_in,"0    0.920378
+dtype: float64",Delta_sm_10_perPtot,"0    0.832434
+dtype: float64"
+384,ste,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,7.536801681624999,Peak_Precipitation_rate_in,"0    0.886519
+dtype: float64",Delta_sm_10,"0    0.846624
+dtype: float64"
+385,ste,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,7.4850994872099985,Peak_Precipitation_rate_in,"0    0.880438
+dtype: float64",Delta_sm_100,"0    0.87099
+dtype: float64"
+386,ste,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.791271274483,Peak_Precipitation_rate_in,"0    0.798826
+dtype: float64",Delta_sm_100_perPtot,"0    0.941023
+dtype: float64"
+387,ste,0,MI_Peak_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.991708151737001,Peak_Precipitation_rate_in,"0    0.822403
+dtype: float64",Delta_sm_10_perPtot,"0    0.85543
+dtype: float64"
+388,ste,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_10_entropy,7.019949046476,Peak_Precipitation_rate_in,"0    0.825724
+dtype: float64",Prior_sm_10,"0    0.770777
+dtype: float64"
+389,ste,0,MI_Peak_Precipitation_rate_in_entropy_and_Prior_sm_100_entropy,7.024450564955,Peak_Precipitation_rate_in,"0    0.826254
+dtype: float64",Prior_sm_100,"0    0.771288
+dtype: float64"
+390,ste,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_entropy,6.828867191583999,Median_Precipitation_rate_in,"0    0.95226
+dtype: float64",Delta_sm_10,"0    0.7671
+dtype: float64"
+391,ste,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_entropy,6.793423171913,Median_Precipitation_rate_in,"0    0.947317
+dtype: float64",Delta_sm_100,"0    0.790504
+dtype: float64"
+392,ste,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_100_perPtot_entropy,6.610207145776,Median_Precipitation_rate_in,"0    0.921768
+dtype: float64",Delta_sm_100_perPtot,"0    0.915934
+dtype: float64"
+393,ste,0,MI_Median_Precipitation_rate_in_entropy_and_Delta_sm_10_perPtot_entropy,6.756696784787001,Median_Precipitation_rate_in,"0    0.942196
+dtype: float64",Delta_sm_10_perPtot,"0    0.826677
+dtype: float64"
+394,ste,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_10_entropy,7.739706689097,Total_Precipitation_in,"0    0.922616
+dtype: float64",Delta_sm_10,"0    0.869417
+dtype: float64"
+395,ste,0,MI_Total_Precipitation_in_entropy_and_Delta_sm_100_entropy,7.7063592094520015,Total_Precipitation_in,"0    0.918641
+dtype: float64",Delta_sm_100,"0    0.896737
+dtype: float64"
+396,ste,0,MI_Prior_sm_10_entropy_and_Delta_sm_100_perPtot_entropy,6.854940807195,Prior_sm_10,"0    0.75266
+dtype: float64",Delta_sm_100_perPtot,"0    0.949845
+dtype: float64"
+397,ste,0,MI_Prior_sm_10_entropy_and_Delta_sm_10_perPtot_entropy,7.043565977663,Prior_sm_10,"0    0.77337
+dtype: float64",Delta_sm_10_perPtot,"0    0.861775
+dtype: float64"
+398,ste,0,MI_Prior_sm_100_entropy_and_Delta_sm_100_perPtot_entropy,6.858074458418999,Prior_sm_100,"0    0.753019
+dtype: float64",Delta_sm_100_perPtot,"0    0.95028
+dtype: float64"
+399,ste,0,MI_Prior_sm_100_entropy_and_Delta_sm_10_perPtot_entropy,7.027098186250001,Prior_sm_100,"0    0.771578
+dtype: float64",Delta_sm_10_perPtot,"0    0.85976
+dtype: float64"
